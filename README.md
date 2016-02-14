@@ -1,0 +1,2 @@
+# ZeroCar
+ZeroCar is a touchscreen controlled R/C car which operates purely on Assembly Code. We used XBee radio modules to send PWM signals between two Altera DE-2 Boards. One board was connected to the touchscreen while the other was connected to the R/C car. As a result it allowed the user virtually limitless control over the car and proved to be a valuable tool to help children develop their spatial awareness in an engaging and exciting way. 
